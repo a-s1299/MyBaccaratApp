@@ -2,6 +2,8 @@
 Android Baccarat Game
 > This Android application is an Activity-based game that is in the initial stages of developement. Currently it features core mechanics and saves progress, but my vision for the game includes more of an immersive experience. 
 
+<img src="baccarat-table.jpg" style="width: 30%; height: auto;"/>
+
 # how to play 
 > The goal of the game is 'bankrupt' the casino. The casino includes multiple tables with different Mininum and Maximum bets which ultimately lead to the final No-limit table. The game also has a 'casino loan' feature that will help the user to recover from a bad losing streak. However, all bets must be paid. 
 
